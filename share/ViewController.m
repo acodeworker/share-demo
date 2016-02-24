@@ -14,10 +14,10 @@
 @implementation ViewController
 - (IBAction)share:(id)sender {
     
-    //测试修改代码后提交到github
+    //第一次：测试修改代码后提交到github
     NSArray* iage = @[[UIImage imageNamed:@"share"]];
 
-    
+    // 第二次：修改
     
  //点击分享
     //1、创建分享参数
