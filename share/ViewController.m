@@ -13,6 +13,8 @@
 
 @implementation ViewController
 - (IBAction)share:(id)sender {
+    //这是master的修改
+    
     
     //第一次：测试修改代码后提交到github
     NSArray* iage = @[[UIImage imageNamed:@"share"]];
